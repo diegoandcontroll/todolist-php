@@ -1,6 +1,6 @@
 # App To Do List with php 
 
-## PHP CRUD with MySQL & PDO  (Create, Read, Update, Delete) To do
+## PHP CRUD with MySQL & PDO  (Create, Read, Update, Delete) To do list
 
 ### Install
   ```
